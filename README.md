@@ -1,2 +1,2 @@
 # Hello-Joel
-About Joel
+biography 
